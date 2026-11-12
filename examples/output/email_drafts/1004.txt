@@ -1,0 +1,9 @@
+To: lena.rossi@example.com
+Subject: About your order 1004
+
+Hi Lena,
+
+Thanks for ordering 3 x Cedar Candle ($55.50) on 2025-02-20. We noticed the payment is still pending. Could you check it on your side, or reply to this message if you need help?
+
+Best regards,
+Maple & Pine Goods

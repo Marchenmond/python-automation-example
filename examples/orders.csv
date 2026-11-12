@@ -1,0 +1,11 @@
+order_id,date,customer,email,product,qty,unit_price,status
+1001,2025-02-03,Maya Fletcher,maya.fletcher@example.com,Cedar Candle,2,18.50,shipped
+1002,2025-02-07,Owen Park,owen.park@example.com,Linen Apron,1,42.00,paid
+1003,2025-02-11,Maya Fletcher,maya.fletcher@example.com,Ceramic Mug,4,12.25,paid
+1004,2025-02-20,Lena Rossi,lena.rossi@example.com,Cedar Candle,3,18.50,pending
+1005,2025-03-02,Tom Brandt,tom.brandt@example.com,Linen Apron,2,42.00,cancelled
+1006,2025-03-05,Owen Park,owen.park@example.com,Ceramic Mug,2,12.25,shipped
+1007,2025-03-14,Ivy Chen,ivy.chen@example.com,Wool Throw,1,89.90,paid
+1008,2025-03-27,Lena Rossi,lena.rossi@example.com,Wool Throw,1,89.90,pending
+1009,2025-03-28,Sam Ortiz,not-an-email,Cedar Candle,1,18.50,paid
+1010,2025-03-29,Ivy Chen,ivy.chen@example.com,Ceramic Mug,zero,12.25,paid
